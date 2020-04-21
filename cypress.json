@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://eaapp.somee.com",
+    "watchForFileChanges": false,
+    "username": "admin",
+    "password": "password"
+}
