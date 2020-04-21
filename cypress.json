@@ -2,5 +2,16 @@
     "baseUrl": "http://eaapp.somee.com",
     "watchForFileChanges": false,
     "username": "admin",
-    "password": "password"
+    "password": "password",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    }
 }
