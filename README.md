@@ -2,11 +2,6 @@
 
 An example project demonstrating automated UI tests using JavaScript-based end-to-end testing framework Cypress with Page Object Model pattern.
 
-## Prerequisites
-
-* [Java 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Java Dev Kit
-* [Maven](https://maven.apache.org/download.cgi) - Dependency Manager
-
 ## Application Under Test
 
 We are using EA Employee App as the Application Under Test.
